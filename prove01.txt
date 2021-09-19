@@ -1,0 +1,21 @@
+After completing the assignment, be sure to push to Github. You do not have to worry about pushing to Heroku this lesson.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your source code repository (e.g., GitHub): https://github.com/prattsbyui/cse341-node
+
+3. Briefly list and describe the elements of the application that are functioning: the routes, exports, and handler are working.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly: I did not take the time to update the users list.
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment: cleaning up the first file by moving the routes to the routes file.
+
+6. If you could change this assignment to be more effective or helpful, what would you change? It would be nice if the prove assignment was just the assignment from the udemy course, but I get just value of getting students to stretch themselves. 
+
+7. Please select the category you feel best desribes your assignment:
+  
+   4 - Meets requirements
+  
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I did everything but the update to the users. according to the rubric that meets the requirements.
